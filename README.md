@@ -28,5 +28,6 @@ Streamlit (or Flask) for UI
 Jupyter Notebook for experimentation
 
 📌 Goal
+
 To improve patient outcomes in ICUs by providing intelligent, data-backed medical support recommendations using artificial intelligence.
 
